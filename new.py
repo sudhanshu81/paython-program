@@ -82,19 +82,3 @@ if(age<=78):
         print("dont drive")
 else:
     print("cannot drive")"""
-
-#practice question
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
