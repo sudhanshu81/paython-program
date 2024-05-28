@@ -40,3 +40,22 @@ new_dict={
 }
 student.update(new_dict)
 print(student)"""
+
+#set in paython
+
+collection={1,2,3,4,"hi","coding"}
+
+#method of set.
+
+"""print(collection)
+print(type(collection))
+print(collection.add(5))
+print(collection.remove(2))
+print(collection.clear())
+print(collection.pop())
+print(collection.pop())
+collection2={5,4,2,1,"spy","name"}
+print(collection.union(collection2))
+print(collection.intersection(collection))"""
+
+
