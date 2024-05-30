@@ -1,5 +1,7 @@
-
+#loop concept
 #wap to find sum of first n numbers.(using for )
+
+
 n=5
 
 sum=0  
