@@ -27,6 +27,14 @@ print(sum)"""
     print_hello()
     print_hello()"""
 
+#defualt parameter
+
+"""def cal_prod(a=1,b=3):
+    print(a*b)
+    return a*b
+cal_prod()"""
+
+
 
 
 
